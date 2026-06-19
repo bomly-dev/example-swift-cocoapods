@@ -10,20 +10,15 @@ target 'example-objc-cocoapods' do
   pod 'Alamofire', '~> 4.0'
   pod 'HockeyKit'
   pod 'OpenSSL-Static', '1.0.2.c1'
-  pod 'AFNetworking', '~> 3.0'
 
   target 'example-objc-cocoapodsTests' do
     inherit! :search_paths
     # Pods for testing
-    pod 'OCMock', '~> 3.4'
-    pod 'Specta', '~> 1.0'
-    pod 'Expecta', '~> 1.0'
   end
 
   target 'example-objc-cocoapodsUITests' do
     inherit! :search_paths
     # Pods for testing
-    pod 'KIF', '~> 3.0'
   end
 
 end

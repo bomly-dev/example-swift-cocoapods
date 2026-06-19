@@ -1,56 +1,27 @@
 PODS:
-  - AFNetworking (3.2.1):
-    - AFNetworking/NSURLSession (= 3.2.1)
-    - AFNetworking/Reachability (= 3.2.1)
-    - AFNetworking/Security (= 3.2.1)
-    - AFNetworking/Serialization (= 3.2.1)
-    - AFNetworking/UIKit (= 3.2.1)
-  - AFNetworking/NSURLSession (3.2.1):
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-  - AFNetworking/Reachability (3.2.1)
-  - AFNetworking/Security (3.2.1)
-  - AFNetworking/Serialization (3.2.1)
-  - AFNetworking/UIKit (3.2.1):
-    - AFNetworking/NSURLSession
   - Alamofire (4.3.0)
-  - Expecta (1.0.6)
   - HockeyKit (2.0.7)
-  - KIF (3.7.7)
-  - OCMock (3.4.3)
   - OpenSSL-Static (1.0.2.c1)
   - ReactiveCocoa (5.0.0-rc.1):
     - ReactiveSwift (~> 1.0.0-rc.3)
   - ReactiveSwift (1.0.0):
     - Result (~> 3.1)
   - Result (3.1.0)
-  - Specta (1.0.7)
 
 DEPENDENCIES:
-  - AFNetworking (~> 3.0)
   - Alamofire (~> 4.0)
-  - Expecta (~> 1.0)
   - HockeyKit
-  - KIF (~> 3.0)
-  - OCMock (~> 3.4)
   - OpenSSL-Static (= 1.0.2.c1)
   - ReactiveCocoa (= 5.0.0-rc.1)
-  - Specta (~> 1.0)
 
 SPEC CHECKSUMS:
-  AFNetworking: 5e0e199b8f9de84f85df3f2c8a55f6e4a0a4c7de
   Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
-  Expecta: f0c56c53e9b4065e3b7c2a7e5a7a4f5b3d1e8c9a
   HockeyKit: 50c665e93ffec19f784de76563b9f4aecf467ae8
-  KIF: b3c9e7f2a4d5c8e1b6f3a9d2c7e4b1f8a5c2d9e6
-  OCMock: a7b3c9d5e2f8a1c4b7d0e3f6a9c2b5d8e1f4a7b0
   OpenSSL-Static: bd17e34564a8591ad76b740318683a6caa19a13e
   ReactiveCocoa: 3e9cad4b77fa199d41e03f603cb55d0701ad6ad8
   ReactiveSwift: f391724ee318a2cfd3e37dfb041cd49ecf4e7869
   Result: 4e3ed5995ed94d0cd6a09be9a431fce3f3624bbf
-  Specta: c1d4e7f0a3b6c9d2e5f8a1b4c7d0e3f6a9b2c5d8
 
-PODFILE CHECKSUM: d1e4f7a0b3c6d9e2f5a8b1c4d7e0f3a6b9c2d5e8
+PODFILE CHECKSUM: c920e9e5bfe067641b826fa45fbbba42f53e2045
 
 COCOAPODS: 1.2.0
