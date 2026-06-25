@@ -11,6 +11,8 @@ target 'example-objc-cocoapods' do
   pod 'HockeyKit'
   pod 'OpenSSL-Static', '1.0.2.c1'
   pod 'AFNetworking', '~> 3.0'
+  pod 'SocketRocket', '0.5.1'
+  pod 'SSZipArchive', '2.1.4'
 
   target 'example-objc-cocoapodsTests' do
     inherit! :search_paths

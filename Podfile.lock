@@ -25,7 +25,9 @@ PODS:
   - ReactiveSwift (1.0.0):
     - Result (~> 3.1)
   - Result (3.1.0)
+  - SocketRocket (0.5.1)
   - Specta (1.0.7)
+  - SSZipArchive (2.1.4)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.0)
@@ -36,7 +38,9 @@ DEPENDENCIES:
   - OCMock (~> 3.4)
   - OpenSSL-Static (= 1.0.2.c1)
   - ReactiveCocoa (= 5.0.0-rc.1)
+  - SocketRocket (= 0.5.1)
   - Specta (~> 1.0)
+  - SSZipArchive (= 2.1.4)
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199b8f9de84f85df3f2c8a55f6e4a0a4c7de
@@ -49,7 +53,9 @@ SPEC CHECKSUMS:
   ReactiveCocoa: 3e9cad4b77fa199d41e03f603cb55d0701ad6ad8
   ReactiveSwift: f391724ee318a2cfd3e37dfb041cd49ecf4e7869
   Result: 4e3ed5995ed94d0cd6a09be9a431fce3f3624bbf
+  SocketRocket: 1d7e4a9b2c5d8e1f4a7b0c3d6e9f2a5b8c1d4e7f
   Specta: c1d4e7f0a3b6c9d2e5f8a1b4c7d0e3f6a9b2c5d8
+  SSZipArchive: 9e2f5a8b1c4d7e0f3a6b9c2d5e8f1a4b7c0d3e6f
 
 PODFILE CHECKSUM: d1e4f7a0b3c6d9e2f5a8b1c4d7e0f3a6b9c2d5e8
 
